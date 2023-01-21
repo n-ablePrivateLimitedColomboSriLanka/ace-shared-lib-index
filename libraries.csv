@@ -1,2 +1,3 @@
-RESTRequest_SharedLibrary,https://github.com/nable-integration-cicd-dev-mirror/RESTRequest_SharedLib.git,/
-XML-JSON-Schemas,https://github.com/nable-integration-cicd-dev-mirror/XML-JSON-Schemas.git,/
+MFP_SOA_COMMON_V1.1,https://github.com/n-ablePrivateLimitedColomboSriLanka/SB_MFP_SOA_COMMON_V1.1.git,/MFP_SOA_COMMON_V1.1
+Logger,https://github.com/n-ablePrivateLimitedColomboSriLanka/IIB_CMN_LoggerLib.git,/
+ExceptionManager,https://github.com/n-ablePrivateLimitedColomboSriLanka/IIB_CMN_ExceptionManagerLib.git,/ExceptionManager
